@@ -1,5 +1,3 @@
-### Hello Hello! 😉
-
 ![Custom badge](https://img.shields.io/badge/Job%20Title-Software%20Engineer%2C%20and%20Developer-yellow)
 
 
